@@ -23,7 +23,7 @@ class BeritaPendukung extends StatelessWidget{
                   bottom: BorderSide(color: Colors.blueAccent),
                 ),
                 image: DecorationImage(
-                  image: NetworkImage('https://images.daznservices.com/di/library/GOAL/c0/68/gerard-pique-barcelona-yellow-card-2020-21_1b5pixs2oir8s1hy0nwfy1tnrz.jpg'),
+                  image: NetworkImage('https://images.daznservices.com/di/library/GOAL/c0/68/gerard-pique-barcelona-yellow-card-2020-21_1b5pixs2oir8s1hy0nwfy1tnrz.jpg?t=1931977831&quality=60&w=1200&h=800'),
                   fit: BoxFit.fill,
                 ),
               ),
