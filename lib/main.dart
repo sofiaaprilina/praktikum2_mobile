@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'widgets/menuTab.dart';
+import 'widgets/beritaUtama.dart';
 
 void main() {
   runApp(MyApp());
@@ -23,6 +24,7 @@ class MyApp extends StatelessWidget {
             child: Column(
               children: <Widget>[
                 MenuTab(),
+                BeritaUtama(),
               ],
             ),
           ),
